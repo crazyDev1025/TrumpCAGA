@@ -12156,7 +12156,7 @@
                                     }),
                                   }),
                                   (0, Ee.jsx)("a", {
-                                    href: "",
+                                    href: "https://x.com/TrumpCAGA",
                                     target: "_blank",
                                     children: (0, Ee.jsx)("img", {
                                       src: Ve,
@@ -12217,7 +12217,7 @@
                             "data-aos-duration": "2000",
                             children: [
                               (0, Ee.jsx)("a", {
-                                href: "",
+                                href: "https://x.com/TrumpCAGA",
                                 target: "_blank",
                                 className:
                                   "flex align-center justify-center ft-row-icon-box",

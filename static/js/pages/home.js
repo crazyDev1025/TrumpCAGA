@@ -590,7 +590,7 @@ const Home = () => {
                     <a href="https://t.me/TrumpCAGA" target="_blank">
                       <img src={tg_icon} alt="" />
                     </a>
-                    <a href="" target="_blank">
+                    <a href="https://x.com/TrumpCAGA" target="_blank">
                       <img src={twitter} alt="" />
                     </a>
                     <a href="" target="_blank">
