@@ -117,7 +117,7 @@ const Home = () => {
                 🐶❤️
                 <br />
                 <br />
-                Cats Are Great Again! <img src={us_em} alt="" /> $CAGA!!!{" "}
+                Cats Are Great Again! <img src={us_em} alt="" /> $TRUMPCAT!!!{" "}
                 <img src={us_em} alt="" />
                 <br />
                 <br />
@@ -296,7 +296,7 @@ const Home = () => {
                   </tr>
                   <tr>
                     <td>Ticker Symbol:</td>
-                    <td>$CAGA</td>
+                    <td>$TRUMPCAT</td>
                   </tr>
                   <tr>
                     <td>Blockchain:</td>

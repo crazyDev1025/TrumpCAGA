@@ -11347,12 +11347,12 @@
                                 "This cryptocurrency token combines the brash confidence and business acumen of Donald Trump, with the agility and cunning of a cat. With its its savvy style and limited supply, the Trump Cat token is sure to be a red hot commodity among crypto enthusiasts. ",
                                 (0, Ee.jsx)("br", {}),
                                 (0, Ee.jsx)("br", {}),
-                                "Every week, Trump Cat is donating 5% of all buy/sell taxes towards animal rescue and care, for all our furry friends.\ud83d\udc31 \ud83d\udc36\u2764\ufe0f",
+                                "Every week, Trump Cat is donating 0% of all buy/sell taxes towards animal rescue and care, for all our furry friends.\ud83d\udc31 \ud83d\udc36\u2764\ufe0f",
                                 (0, Ee.jsx)("br", {}),
                                 (0, Ee.jsx)("br", {}),
                                 "Cats Are Great Again!  ",
                                 (0, Ee.jsx)("img", { src: Fe, alt: "" }),
-                                " $CAGA!!! ",
+                                " $TRUMPCAT!!! ",
                                 (0, Ee.jsx)("img", { src: Fe, alt: "" }),
                                 (0, Ee.jsx)("br", {}),
                                 (0, Ee.jsx)("br", {}),
@@ -11618,7 +11618,7 @@
                                     (0, Ee.jsx)("td", {
                                       children: "Ticker Symbol:",
                                     }),
-                                    (0, Ee.jsx)("td", { children: "$CAGA" }),
+                                    (0, Ee.jsx)("td", { children: "$TRUMPCAT" }),
                                   ],
                                 }),
                                 (0, Ee.jsxs)("tr", {
