@@ -593,9 +593,6 @@ const Home = () => {
                     <a href="https://x.com/TrumpCAGA" target="_blank">
                       <img src={twitter} alt="" />
                     </a>
-                    <a href="" target="_blank">
-                      <img src={mail_icon} alt="" />
-                    </a>
                   </div>
                   <div className="join-text ">
                     <h3 data-aos="fade-right" data-aos-duration="2000">

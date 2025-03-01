@@ -55,9 +55,6 @@ const NavBar = () => {
               <a href="#htb">Tokenomics</a>
             </li>
             <li className="nav-link">
-              <a href="#partners">Roadmap</a>
-            </li>
-            <li className="nav-link">
               <a href="#join">Contact</a>
             </li>
             {/* <li className='join-btn'><Link to='#'>Join Now</Link></li> */}

@@ -11136,13 +11136,6 @@
                           (0, Ee.jsx)("li", {
                             className: "nav-link",
                             children: (0, Ee.jsx)("a", {
-                              href: "#partners",
-                              children: "Roadmap",
-                            }),
-                          }),
-                          (0, Ee.jsx)("li", {
-                            className: "nav-link",
-                            children: (0, Ee.jsx)("a", {
                               href: "#join",
                               children: "Contact",
                             }),
