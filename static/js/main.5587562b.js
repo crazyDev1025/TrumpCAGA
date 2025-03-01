@@ -12163,14 +12163,7 @@
                                       alt: "",
                                     }),
                                   }),
-                                  (0, Ee.jsx)("a", {
-                                    href: "",
-                                    target: "_blank",
-                                    children: (0, Ee.jsx)("img", {
-                                      src: He,
-                                      alt: "",
-                                    }),
-                                  }),
+                                  
                                 ],
                               }),
                               (0, Ee.jsxs)("div", {
