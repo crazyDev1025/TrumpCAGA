@@ -11656,7 +11656,7 @@
                             }),
                             (0, Ee.jsx)("p", {
                               children:
-                                "5% donation is not set in stone right now but we shall add it",
+                                "",
                             }),
                           ],
                         }),
