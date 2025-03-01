@@ -11149,7 +11149,7 @@
                           }),
                           (0, Ee.jsx)("li", {
                             children: (0, Ee.jsx)(Ae, {
-                              to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                              to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9",
                               target: "_blank",
                               className: "gs-btn",
                               children: "Buy Now",
@@ -11212,7 +11212,7 @@
                   (0, Ee.jsx)("div", {
                     className: "mobile-nav-item",
                     children: (0, Ee.jsx)("a", {
-                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9",
                       target: "_blank",
                       className: "open-sans_f",
                       children: "Buy Now",
@@ -11298,13 +11298,13 @@
                                     className: "home-ca-box",
                                     children: (0, Ee.jsx)("p", {
                                       children:
-                                        "0xcomingsoon",
+                                        "0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9",
                                     }),
                                   }),
                                 ],
                               }),
                               (0, Ee.jsx)("a", {
-                                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9",
                                 target: "_blank",
                                 className: "btn-1",
                                 children: "Buy Token Now",
@@ -11350,7 +11350,7 @@
                                 "Every week, Trump Cat is donating 0% of all buy/sell taxes towards animal rescue and care, for all our furry friends.\ud83d\udc31 \ud83d\udc36\u2764\ufe0f",
                                 (0, Ee.jsx)("br", {}),
                                 (0, Ee.jsx)("br", {}),
-                                "Cats Are Great Again!  ",
+                                "Cats Are Great Again  ",
                                 (0, Ee.jsx)("img", { src: Fe, alt: "" }),
                                 " $TRUMPCAT!!! ",
                                 (0, Ee.jsx)("img", { src: Fe, alt: "" }),
@@ -12241,7 +12241,7 @@
                           (0, Ee.jsx)("a", {
                             "data-aos": "fade-left",
                             "data-aos-duration": "2000",
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9",
                             target: "_blank",
                             className: "btn-1",
                             children: "Buy Now",

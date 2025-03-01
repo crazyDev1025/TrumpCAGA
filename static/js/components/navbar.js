@@ -63,7 +63,7 @@ const NavBar = () => {
             {/* <li className='join-btn'><Link to='#'>Join Now</Link></li> */}
             <li>
               <Link
-                to="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
+                to="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9"
                 target="_blank"
                 className="gs-btn"
               >
@@ -103,7 +103,7 @@ const NavBar = () => {
         </div>
         <div className="mobile-nav-item">
           <a
-            href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
+            href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9"
             target="_blank"
             className="open-sans_f"
           >

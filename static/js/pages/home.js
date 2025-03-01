@@ -72,12 +72,12 @@ const Home = () => {
                 <div className="home-ca-cont">
                   <h3>Contract Address</h3>
                   <div className="home-ca-box">
-                    <p>0xcomingsoon</p>
+                    <p>0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9</p>
                   </div>
                 </div>
 
                 <a
-                  href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
+                  href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9"
                   target="_blank"
                   className="btn-1"
                 >
@@ -117,7 +117,7 @@ const Home = () => {
                 🐶❤️
                 <br />
                 <br />
-                Cats Are Great Again! <img src={us_em} alt="" /> $TRUMPCAT!!!{" "}
+                Cats Are Great Again <img src={us_em} alt="" /> $TRUMPCAT!!!{" "}
                 <img src={us_em} alt="" />
                 <br />
                 <br />
@@ -649,7 +649,7 @@ const Home = () => {
             <a
               data-aos="fade-left"
               data-aos-duration="2000"
-              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon"
+              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9"
               target="_blank"
               className="btn-1"
             >
