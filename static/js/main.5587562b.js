@@ -12188,9 +12188,9 @@
                                   }),
                                   (0, Ee.jsx)("a", {
                                     target: "_blank",
-                                    href: "https://t.me/TrumpCAGA",
+                                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xDFB54aFaE30c65C2a01b61E5598e92107BcD62e9",
                                     className: "btn-1",
-                                    children: "Join Telegram",
+                                    children: "Chart",
                                   }),
                                 ],
                               }),
